@@ -19,12 +19,6 @@ npm install
 npx parcel index.html
 ```
 
-## Author
-
-👤 **albert**
-
-- Github: [@kaesar03](https://github.com/kaesar03)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
