@@ -1,4 +1,5 @@
-# Welcome to google-maps 👋
+# Welcome to mini project google-maps 👋
+
 [![Version](https://img.shields.io/npm/v/google-maps.svg)](https://www.npmjs.com/package/google-maps)
 [![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](#)
 
@@ -12,22 +13,22 @@
 npm install
 ```
 
-## Run tests
+## Run project
 
 ```sh
-npm run test
+npx parcel index.html
 ```
 
 ## Author
 
 👤 **albert**
 
-* Github: [@kaesar03](https://github.com/kaesar03)
+- Github: [@kaesar03](https://github.com/kaesar03)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
+---
 
-***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
